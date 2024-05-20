@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil 
 
-<!--
-**bonini8764/bonini8764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oi, meu nome é iasmim bonini
 
-Here are some ideas to get you started:
+-Estou estudando no Alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-estou desenvolvendo na linguagem Javascript
+
+
+-Utilizo essse espaço para minha organização e compartilhamento dos meus projetos desenvolvimentos
+
+### você entrar em contato comigo 📧
+
+00001136007258sp@al.educacao.sp.gov.br
